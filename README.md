@@ -137,9 +137,9 @@ ORDER BY u.year ASC;
 
 ```
 ├── README.md
-├── notebook.ipynb   # Full DataCamp exported notebook
-├── assets/          # Images or exports (optional)
-└── results/         # CSV or JSON outputs (optional)
+├── notebook.ipynb   
+├── assets/          
+└── data/        
 ```
 
 ---
