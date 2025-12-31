@@ -3,7 +3,7 @@
 ### Identifying Industry Trends, Best-Selling Games, and the Golden Years of Gaming
 
 This project explores the relationship between video game sales, critic ratings, and user ratings using a curated dataset of the top 400 games released since 1977. The objective is to determine whether a “golden age” of video games exists by analyzing release years that performed exceptionally well according to both critics and users. Additionally, the project examines the commercial side of gaming by ranking the best-selling video games.
-
+![Video Game](assets/video_game.jpg)
 The project was completed inside a DataCamp notebook using SQL and Python, and the outputs are stored as DataFrames:
 
 * `best_selling_games`
